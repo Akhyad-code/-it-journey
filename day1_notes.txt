@@ -1,0 +1,35 @@
+День 1
+
+Что установил:
+- Chrome
+- VS Code
+- Git
+- 7-Zip
+- VirtualBox
+
+Что создал:
+- папку IT-12weeks
+- подпапки: notes, scripts, screenshots, installs, projects
+- GitHub аккаунт
+- репозиторий it-journey
+
+Характеристики ПК:
+- ОС: Windows 11
+- Процессор: Intel Core i5-12450H
+- RAM: 16 GB
+- Диск: 477 GB
+- Тип системы: 64-bit
+
+Что получилось:
+- всё установилось
+- папки созданы
+- GitHub работает
+- VirtualBox открывается
+
+Что было трудно:
+- пока не до конца понимаю Git
+
+Что осталось непонятно:
+- что такое commit
+- как загружать файлы в GitHub
+- чем Git отличается от GitHub
