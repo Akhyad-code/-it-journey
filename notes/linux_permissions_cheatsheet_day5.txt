@@ -1,0 +1,8 @@
+whoami — кто я сейчас
+ls -l — подробный список файлов и прав
+chmod o-r file.txt — убрать чтение у others
+chmod u+x file.txt — дать владельцу execute
+chmod 600 file.txt — только владелец может читать и писать
+sudo command — выполнить как администратор
+adduser name — создать пользователя
+id name — показать информацию о пользователе

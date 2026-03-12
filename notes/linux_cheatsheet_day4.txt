@@ -1,0 +1,10 @@
+pwd — где я сейчас
+ls — показать содержимое
+cd folder — перейти в папку
+cd .. — назад на 1 уровень
+mkdir name — создать папку
+touch file.txt — создать файл
+cp a.txt folder/ — копировать файл
+mv a.txt folder/ — переместить файл
+echo "text" > file.txt — записать текст в файл
+cat file.txt — показать содержимое файла
