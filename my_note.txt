@@ -1,0 +1,3 @@
+Hello from Python
+This is my first file script
+I am learning Python step by step
