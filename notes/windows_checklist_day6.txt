@@ -1,0 +1,11 @@
+Windows Basic Diagnostics Checklist
+
+1. Проверить CPU в Task Manager
+2. Проверить Memory
+3. Проверить Disk load
+4. Проверить Startup Apps
+5. Проверить свободное место на диске
+6. Открыть Event Viewer
+7. Посмотреть последние Error/Warning
+8. Проверить, нет ли лишних фоновых программ
+9. Зафиксировать выводы в заметках
