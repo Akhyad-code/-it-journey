@@ -1,0 +1,3 @@
+8.8.8.8: reachable
+1.1.1.1: reachable
+google.com: reachable

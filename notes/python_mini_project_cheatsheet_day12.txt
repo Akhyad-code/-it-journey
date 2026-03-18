@@ -1,0 +1,8 @@
+hosts = [...] — список адресов
+for host in hosts: — пройти по адресам
+os.system("ping ...") — выполнить ping
+if result == 0 — адрес доступен
+with open("file.txt", "w") — создать отчет
+file.write(line) — записать строку
+datetime.now() — получить текущее время
+input("...") — ввести адрес вручную
