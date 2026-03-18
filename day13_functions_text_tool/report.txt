@@ -1,0 +1,5 @@
+TEXT REPORT
+===========
+Lines: 4
+Words: 14
+Characters: 92
