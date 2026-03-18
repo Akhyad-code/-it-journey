@@ -1,0 +1,6 @@
+os.listdir(folder) — список файлов и папок
+item.endswith(".txt") — проверить расширение
+count += 1 — увеличить счетчик
+os.rename(old, new) — переименовать файл
+os.path.join(a, b) — собрать путь
+for item in items: — пройти по каждому файлу

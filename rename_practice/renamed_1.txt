@@ -1,0 +1,16 @@
+import os
+
+folder = "rename_practice"
+items = os.listdir(folder)
+
+counter = 1
+
+for item in items:
+    old_path = os.path.join(folder, item)
+    new_name = f"renamed_{counter}.txt"
+    new_path = os.path.join(folder, new_name)
+
+    os.rename(old_path, new_path)
+    print(f"{item} -> {new_name}")
+
+    counter += 1
